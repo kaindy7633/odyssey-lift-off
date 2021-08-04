@@ -294,6 +294,17 @@ anymatch@~3.1.2:
     normalize-path "^3.0.0"
     picomatch "^2.0.4"
 
+apollo-datasource-rest@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.nlark.com/apollo-datasource-rest/download/apollo-datasource-rest-3.1.1.tgz#2d4e8afb0745a65de211df238a1d098efd428c66"
+  integrity sha1-LU6K+wdFpl3iEd8jih0Jjv1CjGY=
+  dependencies:
+    apollo-datasource "^3.0.3"
+    apollo-server-caching "^3.0.1"
+    apollo-server-env "^4.0.3"
+    apollo-server-errors "^3.0.1"
+    http-cache-semantics "^4.1.0"
+
 apollo-datasource@^3.0.3:
   version "3.0.3"
   resolved "https://registry.nlark.com/apollo-datasource/download/apollo-datasource-3.0.3.tgz#616ccf2cbfaa6d9bf04520bf7d80da0e372eee5c"
@@ -876,7 +887,7 @@ has-yarn@^2.1.0:
   resolved "https://registry.npm.taobao.org/has-yarn/download/has-yarn-2.1.0.tgz#137e11354a7b5bf11aa5cb649cf0c6f3ff2b2e77"
   integrity sha1-E34RNUp7W/EapctknPDG8/8rLnc=
 
-http-cache-semantics@^4.0.0:
+http-cache-semantics@^4.0.0, http-cache-semantics@^4.1.0:
   version "4.1.0"
   resolved "https://registry.npm.taobao.org/http-cache-semantics/download/http-cache-semantics-4.1.0.tgz#49e91c5cbf36c9b94bcfcd71c23d5249ec74e390"
   integrity sha1-SekcXL82yblLz81xwj1SSex045A=

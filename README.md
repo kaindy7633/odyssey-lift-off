@@ -1,13 +1,13 @@
-# Odyssey Lift-off I: Basics
+# Odyssey Lift-off
+
+Welcome to the companion app of Odyssey Lift-off I! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
+
+You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
 
 ## 简单描述
 
 这是一个学习项目，使用 Apollo GraphQL 构建一个全栈的喵星太空人 Web 项目，教学地址：https://odyssey.apollographql.com/
 它包含了前后端所有代码实现，使用 Apollo 完成前后端
-
-Welcome to the companion app of Odyssey Lift-off I! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
-
-You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
 
 ## How to use this repo
 
